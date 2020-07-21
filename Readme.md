@@ -1,4 +1,8 @@
-## K-Means and Image Compression.  
-Using K-Means for Color Quantization to compress images.  
+# Image Compression using K-Means Algorithm  
+>Using K-Means for Color Quantization   
   
- This algorithm is implemented in Numpy.
+## Image before Compression  
+<img src="violet_evergreen.jpg">  
+  
+## Image after Compression
+<img src="violet_evergreen_compressed.jpg">  
